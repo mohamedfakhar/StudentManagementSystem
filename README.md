@@ -1,10 +1,10 @@
-# 🎓 Student Management System (C++)
+#  Student Management System (C++)
 
 A console-based application built using C++ that demonstrates Object-Oriented Programming (OOP) concepts and STL usage.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add new students
 - Remove students
@@ -15,7 +15,7 @@ A console-based application built using C++ that demonstrates Object-Oriented Pr
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Object-Oriented Programming (OOP)
   - Inheritance
@@ -29,5 +29,4 @@ A console-based application built using C++ that demonstrates Object-Oriented Pr
 
 ---
 
-## 🏗️ Project Structure
-
+##  Project Structure
